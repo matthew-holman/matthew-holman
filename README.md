@@ -19,6 +19,7 @@ I’m driven by solving teams’ problems, helping engineers grow, and building 
 
 ## 💼 Career Snapshot
 
+- Senior Engineering Manager — group.one (2026 - )
 - Engineering Manager — Sympower (2024–2025)
 - Engineering Manager — Marley Spoon (2021–2024)
 - Engineering Lead — Metry (2019–2021)
